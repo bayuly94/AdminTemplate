@@ -1,0 +1,13 @@
+{
+    "name": "AdminTemplate",
+    "alias": "admintemplate",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\AdminTemplate\\Providers\\AdminTemplateServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
